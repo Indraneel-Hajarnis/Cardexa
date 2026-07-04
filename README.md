@@ -95,3 +95,10 @@ The codebase is organized to separate UI, business logic, and data layers, promo
 4.  Scan the QR code with the Expo Go app on your phone to launch the project. On an emulator, the app may open automatically.
 
 Since the application is local-first, it will initialize and seed an SQLite database on its first run.
+
+## Contributors
+
+- [Vidhaan Shah](https://github.com/VidhaanShahh)
+- [Jinmay Jhaveri](https://github.com/Borrus-sudo)
+- [Arnav Gurao](https://github.com/ArnavGurao)
+- [Indraneel Hajarnis](https://github.com/Indraneel-Hajarnis)
